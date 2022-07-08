@@ -2,15 +2,15 @@
  * Objects, Interfaces, and API's
  */
 
-let dog = {
-    name: "Steve",
-    color: "brown",
-    breed: "Pug",
-    size: "small",
-    bark: function (typeOfBark){
-        console.log("Bark!");
-    },
-};
+//let dog = {
+  //  name: "Steve",
+  //  color: "brown",
+  //  breed: "Pug",
+  //  size: "small",
+  //  bark: function (typeOfBark){
+  //      console.log("Bark!");
+  //  },
+//};
 
 function x(y) {
     y.num = y.num + 5;
