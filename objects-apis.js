@@ -8,8 +8,8 @@
   //  breed: "Pug",
   //  size: "small",
   //  bark: function (typeOfBark){
-  //      console.log("Bark!");
-  //  },
+//console.log("Bark!");
+//},
 //};
 
 function x(y) {
